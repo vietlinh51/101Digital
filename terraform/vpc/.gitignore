@@ -1,0 +1,11 @@
+# Directories
+.terraform/
+modules/
+
+# Logs
+*.log
+
+# State
+.terraform.*
+terraform.tfstate
+terraform.tfstate.backup
